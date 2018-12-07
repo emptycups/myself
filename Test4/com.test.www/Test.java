@@ -5,7 +5,7 @@ public class Test {
 		int b= 0;
 	    int c =0;
 	    int d=0000;
-		System.out.println("ÄãºÃ°¡");
+		System.out.println("ÄãºDADADÃ°¡");
 		System.out.println("ÄãºÃ°¡");
 	}
 }
