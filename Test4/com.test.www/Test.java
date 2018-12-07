@@ -4,5 +4,7 @@ public class Test {
 		int a = 0;
 		System.out.println("ÄãºÃ°¡");
 		System.out.println("ÄãºÃ°¡");
+		System.out.println("ÄãºÃ°¡");
+		System.out.println("ÄãºÃ°¡");
 	}
 }
