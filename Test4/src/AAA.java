@@ -4,5 +4,6 @@ public class AAA {
 		System.out.println("yeysy");
 		System.out.println("yeysy");
 		int a = 0;
+		int b = 0;
 	}
 }
