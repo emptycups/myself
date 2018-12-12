@@ -5,6 +5,5 @@ public class AAA {
       System.out.print("dadad");
       System.out.print("dadad");
       int c = 20;
-      System.out.print("dadxccccad");
       int c = 20;
 }
